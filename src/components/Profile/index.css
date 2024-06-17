@@ -1,0 +1,10 @@
+.profile-list{
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://assets.ccbp.in/frontend/react-js/profile-bg.png");
+    background-repeat: no-repeat;
+}
+.img-profile{
+    height: 100px;
+    width: 100px;
+}

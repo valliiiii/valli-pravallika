@@ -1,0 +1,12 @@
+.similar-job-item {
+   display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.skill-image{
+    height: 100px;
+    width: 100px;
+}
+.skill-container{
+    display: flex;
+}
